@@ -76,6 +76,7 @@ module Elasticsearch
           :lang,
           :parent,
           :percolate,
+          :pipeline,
           :refresh,
           :replication,
           :retry_on_conflict,
