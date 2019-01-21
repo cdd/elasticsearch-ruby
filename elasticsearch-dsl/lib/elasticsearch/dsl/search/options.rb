@@ -11,7 +11,7 @@ module Elasticsearch
           :_source,
           :fields,
           :script_fields,
-          :fielddata_fields,
+          :docvalue_fields,
           :rescore,
           :explain,
           :version,
